@@ -9,7 +9,7 @@ packaging @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_
 pillow @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_59qe1phg3h/croot/pillow_1752524533185/work
 ply @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/ply_1728598014170/work
 pyparsing @ file:///Users/builder/cbouss/buildout/croot/pyparsing_1735853852803/work
-PyQt5==5.15.10
+PyQt5>=5.15.10
 PyQt5_sip @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_13qnp05p_5/croot/pyqt-split_1736540542122/work/pyqt_sip
 python-dateutil @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/python-dateutil_1728593996450/work
 setuptools==72.1.0
