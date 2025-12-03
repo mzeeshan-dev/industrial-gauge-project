@@ -1,0 +1,46 @@
+# Ignore virtual environment directories
+venv/
+.env/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore system files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Ignore IDE and editor-specific files
+.idea/       # JetBrains IDEs like PyCharm
+.vscode/     # VSCode
+*.swp        # Vim
+*.swo        # Vim
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore distribution and packaging files
+*.egg
+*.egg-info/
+dist/
+build/
+*.tar.gz
+*.whl
+
+# Ignore log files
+*.log
+
+# Ignore environment configuration files
+.env
+*.env
+
+# Ignore coverage reports
+.coverage
+*.coveragerc
+
+# Ignore mypy type checking files
+.mypy_cache/
+
+# Ignore pyenv-specific files
+.python-version
